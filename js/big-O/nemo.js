@@ -15,4 +15,5 @@ function findNemo(array) {
   // console.log('Call to find Nemo took ' + (t1-t0) + ' millseconds');
 }
 
-findNemo(nemo);
+findNemo(nemo); 
+// What is the Big O of this function => O(n)
